@@ -8,7 +8,7 @@
 
 ## 👋 Welcome!
 
-Hi, I'm **Gbeminiyi Deborah Onipede**, a detail-oriented Business Analyst, Data Science Enthusiast, Technical Manager, Python Programmer, FinTech Expert and API Developer with years of experience across industries. Passionate about leveraging data-driven insights, AI exploration, and software development to create impactful solutions.
+Hi, I'm **Gbeminiyi Deborah Onipede**, a detail-oriented Business Analyst, Data Science Enthusiast, FinTech Expert, Technical Manager, Python Programmer and API Developer with years of experience across industries. Passionate about leveraging data-driven insights, AI exploration, and software development to create impactful solutions.
 
 ---
 # 💫 About Me:
