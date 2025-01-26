@@ -92,6 +92,8 @@ Hi, I'm **Gbeminiyi Deborah Onipede**, a detail-oriented Business Analyst, Data 
 - **PRINCE2 Certification (Foundation & Practitioner)**
 - **Financial Modelling and Valuation Analyst (FMVA)**
 - **ICAN ATS**
+- **Microsoft PowerBI**
+- **Data Science & AI**
 
 ---
 
