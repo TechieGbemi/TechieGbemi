@@ -12,7 +12,7 @@ Hi, I'm **Gbeminiyi Deborah Onipede**, a detail-oriented Business Analyst, Data 
 
 ---
 # 💫 About Me:
-🚀 I'm currently working on Machine Learning<br>🤖 Learning AI<br>🤝 Looking to collaborate on Data Science<br>🎯 Pronouns: she/her<br>📧 onipede.gbeminiyi@gmail.com
+🚀 I'm currently working on Machine Learning<br>🤖 Learning AI<br>🤝 Looking to collaborate on Data Science<br>🎯 Pronouns: she/her<br>📧 gbeminiyi.onipede@gmail.com
 
 # 💻 Tech Stack:
 
