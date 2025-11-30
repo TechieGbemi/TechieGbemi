@@ -49,7 +49,7 @@ Hi, I'm **Gbeminiyi Deborah Onipede**, a detail-oriented Business Analyst, Data 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechieGbemi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # ⭐ Github Total Stars
-![Total Stars](https://img.shields.io/github/stars/TechieGbemi?affiliations=OWNER&style=for-the-badge&logo=github&color=ff69b4)
+![Total Stars](https://img.shields.io/github/stars/TechieGbemi?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=ff1493)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TechieGbemi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
