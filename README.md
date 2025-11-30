@@ -44,10 +44,12 @@ Hi, I'm **Gbeminiyi Deborah Onipede**, a detail-oriented Business Analyst, Data 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![TechieGbemi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechieGbemi&show_icons=true&include_all_commits=true&count_private=true&theme=radical&show=stars)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=TechieGbemi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TechieGbemi&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechieGbemi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# Github Total Stars
+![](https://github-readme-stats.vercel.app/api?username=TechieGbemi&show_icons=true&include_all_commits=true&count_private=true&theme=radical&show=stars)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TechieGbemi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
